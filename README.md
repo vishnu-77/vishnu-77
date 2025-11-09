@@ -109,6 +109,6 @@ I'm always interested in discussing:
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/vishnu-77&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=vishnu-77&color=blueviolet&style=for-the-badge)
 
 </div>
