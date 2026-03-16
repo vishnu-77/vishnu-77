@@ -10,12 +10,12 @@ Building intelligent, secure systems where **AI meets cybersecurity**. Passionat
 
 ## 🚀 What I Do
 
-I specialize in designing and deploying **secure, AI systems** with a focus on:
+I specialize in designing and deploying **secure AI systems** with a focus on:
 
-- 🤖 **Conversational AI & RAG Pipelines** - Building LLM-powered applications that transform complex data into actionable insights
-- 🛡️ **DevSecOps & Security Automation** - Integrating security into every stage of development with automated vulnerability detection
-- ☁️ **Cloud-Native Architecture** - Microservices on AWS, Kubernetes, and containerized environments
-- 🔐 **Secure FinTech Systems** - Payment processing and transaction systems built for compliance and scale
+- 🤖 **Conversational AI & RAG Pipelines** – Transforming complex data into actionable insights with LLM-powered applications
+- 🛡️ **DevSecOps & Security Automation** – Integrating security into every stage of development with automated vulnerability detection
+- ☁️ **Cloud-Native Architecture** – Microservices on AWS, Kubernetes, and containerized environments
+- 🔐 **Secure FinTech Systems** – Payment processing and transaction systems built for compliance and scale
 
 Currently exploring: **AI-driven security operations** and **blockchain applications in autonomous vehicle security**
 
@@ -61,8 +61,12 @@ Currently exploring: **AI-driven security operations** and **blockchain applicat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnu-77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-77&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<!-- Use these URLs; add GITHUB_TOKEN in your repo secrets if you want private repos included -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnu-77&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Vishnu's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-77&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
 </div>
 
 ---
@@ -78,6 +82,7 @@ Python tool for detecting common code vulnerabilities with support for multiple 
 
 [View Project →](https://pypi.org/project/secchecker/)
 
+---
 
 ## 🎓 Background
 
@@ -98,17 +103,16 @@ Focus: Network Security, Cloud Security, Cryptography, Penetration Testing
 ## 📫 Let's Connect
 
 I'm always interested in discussing:
+
 - AI/ML security and automation
 - Cloud-native architecture and DevSecOps
 - Cybersecurity in emerging technologies
 - Open-source collaborations
 
-**Feel free to reach out** via [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/) or [email](mailto:vishnu7stanite@gmail.com)!
+**Reach out** via [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/) or [email](mailto:vishnu7stanite@gmail.com)
 
 ---
 
 <div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=vishnu-77&color=blueviolet&style=for-the-badge)
-
 </div>
