@@ -101,12 +101,24 @@ Current themes include:
 - Runtime evidence and auditability
 - Authority-to-consequence modelling
 
+**Research lineage**
+
+```mermaid
+graph TD
+    A["DXC Technology, 2020 to 2023<br/>Foundational security engineering"] --> B["Warwick MSc, 2023 to 2024<br/>Threat detection research: connected autonomous vehicles"]
+    B --> C["secchecker, 2024 to present<br/>Applied security tooling"]
+    B --> D["Meterbolic, 2025<br/>DevSecOps at scale, GDPR and ISO 27001"]
+    D --> E["iTrials, 2025 to 2026<br/>AI security in healthcare: RAG guardrails, multi-agent orchestration"]
+    D --> F["Hyperlayer, 2026 to present<br/>Fintech infrastructure security"]
+    C --> G
+    E --> G
+    F --> G
+    G["Current research question<br/>Bounded authority for autonomous agents in regulated fintech and healthcare systems"]
+```
+
 ### 📡 Recent Field Notes
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Memory Governance: The Hidden Enterprise Risk](https://vishnucyber.medium.com/agent-memory-governance-the-hidden-enterprise-risk-243987010a7e?source=rss-c492b35ff423------2)
-- [RAG Authorization: Relevance Is Not Permission](https://vishnucyber.medium.com/rag-authorization-relevance-is-not-permission-678a8680e37e?source=rss-c492b35ff423------2)
-- [Tool Governance: Where Agentic AI Becomes Risky](https://vishnucyber.medium.com/tool-governance-where-agentic-ai-becomes-risky-ef9fb7ed7fc0?source=rss-c492b35ff423------2)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium](https://medium.com/@vishnucyber)
