@@ -1,118 +1,81 @@
-# Hi there, I'm Vishnu 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:12100E&height=200&section=header&text=Vishnu%20Prashanth%20Sridhar&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%26%20DevSecOps%20Engineer&descAlignY=60&descSize=18" />
+</p>
 
-### Lead Software Engineer | AI Security & Cloud Infrastructure
+<p align="center">
+Building secure, cloud-native infrastructure and AI-assisted security automation. Currently a Junior DevOps Engineer at <b>Hyperlayer Limited</b>, London.
+</p>
 
-Building intelligent, secure systems where **AI meets cybersecurity**. Passionate about creating scalable cloud-native applications and exploring the intersection of machine learning and security operations.
-
-📍 London, UK | 💼 [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/) | 📧 [Email](mailto:vishnu7stanite@gmail.com)
-
----
-
-## 🚀 What I Do
-
-I specialize in designing and deploying **secure AI systems** with a focus on:
-
-- 🤖 **Conversational AI & RAG Pipelines** – Transforming complex data into actionable insights with LLM-powered applications
-- 🛡️ **DevSecOps & Security Automation** – Integrating security into every stage of development with automated vulnerability detection
-- ☁️ **Cloud-Native Architecture** – Microservices on AWS, Kubernetes, and containerized environments
-- 🔐 **Secure FinTech Systems** – Payment processing and transaction systems built for compliance and scale
-
-Currently exploring: **AI-driven security operations** and **blockchain applications in autonomous vehicle security**
+<p align="center">
+<a href="https://www.linkedin.com/in/vishnuprashanths/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vishnu7stanite@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://medium.com/@vishnucyber"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+<a href="https://www.npmjs.com/package/pigeonmq"><img src="https://img.shields.io/badge/npm-pigeonmq-CB3837?style=flat&logo=npm&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Technologies I Work With
+### 🔭 What I do
 
-**Core Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Design and secure cloud infrastructure on **GCP** and **AWS** using **Terraform**
+- Harden and operate **Kubernetes** clusters (RBAC, network policies, secrets management)
+- Build **DevSecOps** pipelines — SAST/DAST, container scanning, secrets detection, policy enforcement
+- Ship AI/GenAI systems — RAG pipelines, multi-agent orchestration, LLM security guardrails
 
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### 🛠️ Tech Stack
 
-**AI/ML & LLMs**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-**Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Security & DevOps**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
----
+### 🚀 Featured Projects
 
-## 📊 GitHub Stats
+- **[pigeonmq](https://www.npmjs.com/package/pigeonmq)** — npm package
+- **[secchecker](https://pypi.org/project/secchecker/)** — Python tool for automated detection of common code vulnerabilities (secure coding / AI-driven security)
 
-<div align="center">
+### ✍️ Writing
 
-<!-- Use these URLs; add GITHUB_TOKEN in your repo secrets if you want private repos included -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishnu-77&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Vishnu's GitHub Stats"/>
+- [Articles on Medium](https://medium.com/@vishnucyber)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-77&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+### 📜 Certifications
 
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🛡️ secchecker - Automated Security Scanner
-Python tool for detecting common code vulnerabilities with support for multiple languages and CI/CD integration.
-
-**Why it matters**: Catches security issues before they reach production  
-**Tech**: Python, SAST, Pattern Analysis  
-**Use Case**: Pre-commit hooks, automated pipelines
-
-[View Project →](https://pypi.org/project/secchecker/)
+`Enterprise Cyber Security Professional (IBM Security)` · `Oracle Cloud Infrastructure Associate` · `ITIL 4 Foundation`
 
 ---
 
-## 🎓 Background
+<p align="center">
+<img src="./github-metrics.svg" alt="GitHub metrics" />
+</p>
 
-**MSc Cyber Security Engineering** - University of Warwick  
-Focus: Network Security, Cloud Security, Cryptography, Penetration Testing
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=vishnu-77&hide_border=true" height="165" />
+</p>
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vishnu-77&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
-## 💡 What I'm Working On
-
-- Building AI-powered security tools for DevSecOps workflows
-- Exploring advanced AI architectures and LLMs
-- Researching blockchain applications in cybersecurity
-- Contributing to open-source security projects
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing:
-
-- AI/ML security and automation
-- Cloud-native architecture and DevSecOps
-- Cybersecurity in emerging technologies
-- Open-source collaborations
-
-**Reach out** via [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/) or [email](mailto:vishnu7stanite@gmail.com)
-
----
-
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=vishnu-77&color=blueviolet&style=for-the-badge)
-</div>
+<p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvishnu-77&label=Profile%20Views&countColor=%230A66C2" />
+</p>
