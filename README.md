@@ -101,21 +101,6 @@ Current themes include:
 - Runtime evidence and auditability
 - Authority-to-consequence modelling
 
-**Research lineage**
-
-```mermaid
-graph TD
-    A["DXC Technology, 2020 to 2023<br/>Foundational security engineering"] --> B["Warwick MSc, 2023 to 2024<br/>Threat detection research: connected autonomous vehicles"]
-    B --> C["secchecker, 2024 to present<br/>Applied security tooling"]
-    B --> D["Meterbolic, 2025<br/>DevSecOps at scale, GDPR and ISO 27001"]
-    D --> E["iTrials, 2025 to 2026<br/>AI security in healthcare: RAG guardrails, multi-agent orchestration"]
-    D --> F["Hyperlayer, 2026 to present<br/>Fintech infrastructure security"]
-    C --> G
-    E --> G
-    F --> G
-    G["Current research question<br/>Bounded authority for autonomous agents in regulated fintech and healthcare systems"]
-```
-
 ### 📡 Recent Field Notes
 
 <!-- BLOG-POST-LIST:START -->
