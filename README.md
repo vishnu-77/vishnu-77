@@ -29,7 +29,7 @@ Most days that means Kubernetes, Terraform, cloud security, and CI/CD with secur
 | Researching | Security guardrails for autonomous multi-agent systems in regulated environments |
 | Building | Open-source security and infrastructure tooling |
 
-### 🛠 Selected Systems
+### Selected Systems
 
 #### secchecker
 
@@ -53,7 +53,7 @@ Master's research at the University of Warwick exploring how smart contracts and
 
 `Cybersecurity Research` `Blockchain` `Connected Systems`
 
-### 🛠 Production Evidence
+### Production Evidence
 
 | Environment | Engineering evidence |
 |---|---|
@@ -85,7 +85,7 @@ Master's research at the University of Warwick exploring how smart contracts and
 
 </details>
 
-### 🔬 Research Focus
+### Research Focus
 
 I am currently investigating security guardrails for autonomous multi-agent systems operating in regulated fintech and healthcare environments.
 
@@ -101,14 +101,14 @@ Current themes include:
 - Runtime evidence and auditability
 - Authority-to-consequence modelling
 
-### 📡 Recent Field Notes
+### Recent Field Notes
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium](https://medium.com/@vishnucyber)
 
-### 🧰 Working Stack
+### Working Stack
 
 **Secure AI systems**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -130,20 +130,6 @@ Current themes include:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### 📶 Public Activity
-
-<p align="center">
-<img src="./github-metrics.svg" alt="GitHub activity and repository metrics" />
-</p>
-
-<details>
-<summary><strong>Recent public GitHub activity</strong></summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 
