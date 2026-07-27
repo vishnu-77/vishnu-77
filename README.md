@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:12100E&height=200&section=header&text=Vishnu%20Prashanth%20Sridhar&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20and%20Security%20Researcher%20%7C%20DevOps%20Engineer%2C%20Fintech&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:12100E&height=160&section=header&text=Vishnu%20Prashanth%20Sridhar&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<h3 align="center">AI &amp; Security Researcher · DevOps Engineer, Fintech</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vishnuprashanths/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -18,11 +20,6 @@ I sit at the intersection of applied AI and defensive security — hardening the
 ### 📡 Field Notes
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Memory Governance: The Hidden Enterprise Risk](https://vishnucyber.medium.com/agent-memory-governance-the-hidden-enterprise-risk-243987010a7e?source=rss-c492b35ff423------2)
-- [RAG Authorization: Relevance Is Not Permission](https://vishnucyber.medium.com/rag-authorization-relevance-is-not-permission-678a8680e37e?source=rss-c492b35ff423------2)
-- [Tool Governance: Where Agentic AI Becomes Risky](https://vishnucyber.medium.com/tool-governance-where-agentic-ai-becomes-risky-ef9fb7ed7fc0?source=rss-c492b35ff423------2)
-- [Agent Identity Is the New Enterprise AI Security Boundary](https://vishnucyber.medium.com/agent-identity-is-the-new-enterprise-ai-security-boundary-d79dea67205e?source=rss-c492b35ff423------2)
-- [How to Build an Enterprise Agentic AI Control Plane](https://vishnucyber.medium.com/how-to-build-an-enterprise-agentic-ai-control-plane-4ab1025b7ce7?source=rss-c492b35ff423------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://medium.com/@vishnucyber">→ more on Medium</a></p>
