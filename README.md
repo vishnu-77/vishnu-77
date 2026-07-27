@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0F766E&height=160&section=header&text=Vishnu%20Prashanth%20Sridhar&fontSize=36&fontColor=F8FAFC&animation=fadeIn" alt="Vishnu Prashanth Sridhar" />
 </p>
 
-<h3 align="center">AI Security Engineer · Fintech Infrastructure · Applied Research</h3>
+<h3 align="center">AI and Security Engineer · Fintech and Healthcare Infrastructure · Applied Research</h3>
 
-<p align="center">Building secure cloud platforms and researching trustworthy autonomous systems for regulated environments.</p>
+<p align="center">Building secure cloud platforms and researching trustworthy autonomous systems for regulated fintech and healthcare environments.</p>
 
 <p align="center">
 London, United Kingdom<br />
@@ -15,7 +15,7 @@ London, United Kingdom<br />
 
 I work at the intersection of applied AI and defensive security.
 
-I secure the cloud infrastructure fintech platforms depend on, then research how to make the AI systems above it bounded, auditable, and trustworthy.
+I secure the cloud infrastructure fintech and healthcare platforms depend on, then research how to make the AI systems above it bounded, auditable, and trustworthy.
 
 Most days that means Kubernetes, Terraform, cloud security, and CI/CD with security built in. Some days it means following an idea through to a working proof of concept.
 
@@ -25,7 +25,7 @@ Most days that means Kubernetes, Terraform, cloud security, and CI/CD with secur
 
 | Area | Current work |
 |---|---|
-| Operating | Securing and automating cloud infrastructure for regulated fintech systems |
+| Operating | Securing and automating cloud infrastructure for regulated fintech and healthcare systems |
 | Researching | Security guardrails for autonomous multi-agent systems in regulated environments |
 | Building | Open-source security and infrastructure tooling |
 
@@ -37,7 +37,7 @@ A Python security tool for detecting common code vulnerabilities and supporting 
 
 `Python` `Application Security` `DevSecOps`
 
-[View on PyPI](https://pypi.org/project/secchecker/)
+[View on PyPI](https://pypi.org/project/secchecker/) · [Download stats](https://pypistats.org/packages/secchecker) · ![PyPI downloads](https://img.shields.io/pypi/dm/secchecker?label=downloads&style=flat-square)
 
 #### pigeonmq
 
@@ -87,7 +87,7 @@ Master's research at the University of Warwick exploring how smart contracts and
 
 ### 🔬 Research Focus
 
-I am currently investigating security guardrails for autonomous multi-agent systems operating in regulated fintech environments.
+I am currently investigating security guardrails for autonomous multi-agent systems operating in regulated fintech and healthcare environments.
 
 The central question is:
 
