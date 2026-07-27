@@ -67,7 +67,7 @@ Master's research at the University of Warwick exploring how smart contracts and
 
 | Period | Organisation | Role |
 |---|---|---|
-| March 2026, present | Hyperlayer, London | Junior DevOps Engineer |
+| March 2026, present | Hyperlayer, London | DevOps Engineer, Security and AI |
 | November 2025, March 2026 | iTrials, Los Angeles and remote | Founding Engineer, DevOps and AI |
 | February 2025, October 2025 | Meterbolic, London | Lead Software Consultant, AI and Security |
 | July 2020, June 2023 | DXC Technology, Chennai | Software Engineer to Associate Software Engineer |
