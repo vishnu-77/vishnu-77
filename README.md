@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-I sit at the intersection of applied AI and defensive security — hardening the cloud infrastructure fintech platforms run on, and researching how to keep the AI layered on top of it trustworthy. Most days that's Kubernetes, Terraform, and CI/CD with security built in, not bolted on. Some days it's chasing an idea through to a working proof of concept.
+I sit at the intersection of applied AI and defensive security, hardening the cloud infrastructure fintech platforms run on, and researching how to keep the AI layered on top of it trustworthy. Most days that's Kubernetes, Terraform, and CI/CD with security built in, not bolted on. Some days it's chasing an idea through to a working proof of concept.
 </p>
 
 ---
@@ -25,15 +25,15 @@ I sit at the intersection of applied AI and defensive security — hardening the
 
 ### 🔬 Research & Publications
 
-- **Master's Dissertation, University of Warwick** — Blockchain-based cyber-threat detection and mitigation for connected autonomous vehicles (CAVs): smart contracts, distributed ledger, and threat-intel sharing between vehicles.
-- **[secchecker](https://pypi.org/project/secchecker/)** — Python tool for automated detection of common code vulnerabilities.
-- **[pigeonmq](https://www.npmjs.com/package/pigeonmq)** ![npm downloads](https://img.shields.io/npm/dw/pigeonmq?label=downloads&style=flat-square) — message queue package on npm.
+- **Master's Dissertation, University of Warwick**: Blockchain-based cyber-threat detection and mitigation for connected autonomous vehicles (CAVs): smart contracts, distributed ledger, and threat-intel sharing between vehicles.
+- **[secchecker](https://pypi.org/project/secchecker/)**: Python tool for automated detection of common code vulnerabilities.
+- **[pigeonmq](https://www.npmjs.com/package/pigeonmq)** ![npm downloads](https://img.shields.io/npm/dw/pigeonmq?label=downloads&style=flat-square): message queue package on npm.
 
 ### 🛠 Operations Log
 
 | When | Where | Role | Impact |
 |---|---|---|---|
-| Mar 2026 – present | Hyperlayer · London | Junior DevOps Engineer | Secured fin-tech infra for banking clients — Terraform, hardened Kubernetes, DevSecOps automation |
+| Mar 2026 – present | Hyperlayer · London | Junior DevOps Engineer | Secured fin-tech infra for banking clients: Terraform, hardened Kubernetes, DevSecOps automation |
 | Nov 2025 – Mar 2026 | iTrials · LA / Remote | Founding Engineer, DevOps & AI | GCP + Vertex AI healthcare platform; secure RAG pipeline (Vertex AI + Neo4j); multi-agent orchestration cut query latency 40% |
 | Feb 2025 – Oct 2025 | Meterbolic · London | Lead Software Consultant, AI & Security | CI/CD + DevSecOps across GCP; GDPR/ISO 27001 compliance; release time down 45%, vulnerabilities down 40% |
 | Jul 2020 – Jun 2023 | DXC Technology · Chennai | Software Engineer → Associate Software Engineer | Spring Boot microservices on Kubernetes at 120K monthly transactions; MTTR cut from 40 to <10 min |
