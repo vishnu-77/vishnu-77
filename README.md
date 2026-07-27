@@ -104,6 +104,9 @@ Current themes include:
 ### 📡 Recent Field Notes
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Memory Governance: The Hidden Enterprise Risk](https://vishnucyber.medium.com/agent-memory-governance-the-hidden-enterprise-risk-243987010a7e?source=rss-c492b35ff423------2)
+- [RAG Authorization: Relevance Is Not Permission](https://vishnucyber.medium.com/rag-authorization-relevance-is-not-permission-678a8680e37e?source=rss-c492b35ff423------2)
+- [Tool Governance: Where Agentic AI Becomes Risky](https://vishnucyber.medium.com/tool-governance-where-agentic-ai-becomes-risky-ef9fb7ed7fc0?source=rss-c492b35ff423------2)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium](https://medium.com/@vishnucyber)
