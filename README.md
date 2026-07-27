@@ -78,6 +78,11 @@ I sit at the intersection of applied AI and defensive security — hardening the
 **Recent activity**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#133](https://github.com/ratel-ai/ratel/pull/133) in [ratel-ai/ratel](https://github.com/ratel-ai/ratel)
+2. ❗ Opened issue [#14](https://github.com/vishnu-77/secchecker/issues/14) in [vishnu-77/secchecker](https://github.com/vishnu-77/secchecker)
+3. 🚀 Published release [v0.4.2 — Audit remediation](https://github.com/vishnu-77/secchecker/releases/tag/v0.4.2) in [vishnu-77/secchecker](https://github.com/vishnu-77/secchecker)
+4. 🎉 Merged PR [#26](https://github.com/vishnu-77/pigeon/pull/26) in [vishnu-77/pigeon](https://github.com/vishnu-77/pigeon)
+5. 🔒 Closed issue [#22](https://github.com/vishnu-77/pigeon/issues/22) in [vishnu-77/pigeon](https://github.com/vishnu-77/pigeon)
 <!--END_SECTION:activity-->
 
 <p align="center">
