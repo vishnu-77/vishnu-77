@@ -6,7 +6,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vishnuprashanths/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vishnu7stanite@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://medium.com/@vishnucyber"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
 <a href="https://www.npmjs.com/package/pigeonmq"><img src="https://img.shields.io/badge/npm-pigeonmq-CB3837?style=flat&logo=npm&logoColor=white" /></a>
 </p>
@@ -75,11 +74,6 @@ I sit at the intersection of applied AI and defensive security — hardening the
 **Recent activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/ratel-ai/ratel/pull/133) in [ratel-ai/ratel](https://github.com/ratel-ai/ratel)
-2. ❗ Opened issue [#14](https://github.com/vishnu-77/secchecker/issues/14) in [vishnu-77/secchecker](https://github.com/vishnu-77/secchecker)
-3. 🚀 Published release [v0.4.2 — Audit remediation](https://github.com/vishnu-77/secchecker/releases/tag/v0.4.2) in [vishnu-77/secchecker](https://github.com/vishnu-77/secchecker)
-4. 🎉 Merged PR [#26](https://github.com/vishnu-77/pigeon/pull/26) in [vishnu-77/pigeon](https://github.com/vishnu-77/pigeon)
-5. 🔒 Closed issue [#22](https://github.com/vishnu-77/pigeon/issues/22) in [vishnu-77/pigeon](https://github.com/vishnu-77/pigeon)
 <!--END_SECTION:activity-->
 
 <p align="center">
@@ -98,4 +92,4 @@ I sit at the intersection of applied AI and defensive security — hardening the
 
 🔭 **Currently researching:** security guardrails for autonomous multi-agent systems in regulated fintech environments.
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/) or [email](mailto:vishnu7stanite@gmail.com).
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/).
