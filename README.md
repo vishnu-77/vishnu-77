@@ -2,106 +2,64 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0F766E&height=160&section=header&text=Vishnu%20Prashanth%20Sridhar&fontSize=36&fontColor=F8FAFC&animation=fadeIn" alt="Vishnu Prashanth Sridhar" />
 </p>
 
-<h3 align="center">AI and Security Engineer · Fintech and Healthcare Infrastructure · Applied Research</h3>
+<h3 align="center">Security and AI Engineer · Cloud Platforms · Applied Research</h3>
 
-<p align="center">Building secure cloud platforms and researching trustworthy autonomous systems for regulated fintech and healthcare environments.</p>
+<p align="center">Building secure infrastructure and practical controls for AI agents, developer platforms, and regulated systems.</p>
 
 <p align="center">
 London, United Kingdom<br />
 <a href="https://www.linkedin.com/in/vishnuprashanths/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="https://medium.com/@vishnucyber"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium articles" /></a>
-<a href="https://www.npmjs.com/package/pigeonmq"><img src="https://img.shields.io/badge/npm-pigeonmq-CB3837?style=flat-square&logo=npm&logoColor=white" alt="pigeonmq on npm" /></a>
+<a href="https://pypi.org/project/secchecker/"><img src="https://img.shields.io/badge/PyPI-secchecker-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="secchecker on PyPI" /></a>
+<a href="https://www.npmjs.com/package/pigeonmq"><img src="https://img.shields.io/badge/npm-pigeonmq-CB3837?style=flat-square&logo=npm&logoColor=white" alt="PigeonMQ on npm" /></a>
 </p>
 
-I work at the intersection of applied AI and defensive security.
+I work at the intersection of defensive security, cloud engineering, and trustworthy AI systems. My focus is making consequential software easier to constrain, inspect, and audit at runtime.
 
-I secure the cloud infrastructure fintech and healthcare platforms depend on, then research how to make the AI systems above it bounded, auditable, and trustworthy.
+## Featured open-source systems
 
-Most days that means Kubernetes, Terraform, cloud security, and CI/CD with security built in. Some days it means following an idea through to a working proof of concept.
+### [secchecker](https://github.com/vishnu-77/secchecker)
 
----
+A dependency-free static security scanner for AI agents, MCP servers, and LLM applications. It detects risky tool-output handling, memory injection patterns, unsafe prompt construction, exposed credentials, and deployment misconfigurations before release.
 
-### Current Focus
+`Python` `MCP Security` `Agent Security` `Static Analysis` `SARIF`
 
-| Area | Current work |
+[Install from PyPI](https://pypi.org/project/secchecker/) · [View source](https://github.com/vishnu-77/secchecker) · ![PyPI downloads](https://img.shields.io/pypi/dm/secchecker?label=downloads&style=flat-square)
+
+### [PigeonMQ](https://github.com/vishnu-77/pigeon)
+
+An experimental policy-compiled messaging broker. Services authenticate, negotiate identity-bound communication contracts, and then publish, receive, replay, acknowledge, or quarantine messages under enforceable subject, schema, intent, region, idempotency, and data-handling rules.
+
+`Node.js` `Messaging` `Runtime Policy` `Zero Trust` `Auditability`
+
+[Install from npm](https://www.npmjs.com/package/pigeonmq) · [View source](https://github.com/vishnu-77/pigeon) · ![npm downloads](https://img.shields.io/npm/dw/pigeonmq?label=downloads&style=flat-square)
+
+> Kafka stores the log. NATS routes the subject. RabbitMQ manages the queue. PigeonMQ explores how the communication contract itself can become enforceable.
+
+## Current research direction
+
+**How can an autonomous agent or service receive enough authority to complete useful work without receiving unbounded authority over consequential systems?**
+
+Current themes:
+
+- agent identity and delegated authority;
+- tool and action governance;
+- runtime communication contracts;
+- memory and retrieval authorisation;
+- human intervention in non-deterministic systems;
+- evidence, replay, and auditability;
+- authority-to-consequence modelling.
+
+## Engineering background
+
+| Area | Experience |
 |---|---|
-| Operating | Securing and automating cloud infrastructure for regulated fintech and healthcare systems |
-| Researching | Security guardrails for autonomous multi-agent systems in regulated environments |
-| Building | Open-source security and infrastructure tooling |
+| Regulated infrastructure | Kubernetes, Terraform, AWS, GCP, CI/CD, identity, platform security, and operational controls |
+| Secure AI systems | Agent and MCP security, RAG controls, model-facing trust boundaries, evaluation, and runtime governance |
+| Developer tooling | Static analysis, policy checks, release automation, security reporting, and open-source package delivery |
+| Applied research | Autonomous-system security, distributed trust, connected systems, and auditable control architectures |
 
-### Selected Systems
-
-#### secchecker
-
-A Python security tool for detecting common code vulnerabilities and supporting automated security checks within development workflows.
-
-`Python` `Application Security` `DevSecOps`
-
-[View on PyPI](https://pypi.org/project/secchecker/) · [Download stats](https://pypistats.org/packages/secchecker) · ![PyPI downloads](https://img.shields.io/pypi/dm/secchecker?label=downloads&style=flat-square)
-
-#### pigeonmq
-
-A lightweight message queue package published through npm and designed as an independently consumable developer component.
-
-`Node.js` `Messaging` `Open Source`
-
-[View on npm](https://www.npmjs.com/package/pigeonmq) · ![npm downloads](https://img.shields.io/npm/dw/pigeonmq?label=downloads&style=flat-square)
-
-#### Distributed Threat Intelligence for Connected Vehicles
-
-Master's research at the University of Warwick exploring how smart contracts and distributed ledgers can support cyber-threat detection, mitigation, and threat-intelligence exchange between connected autonomous vehicles.
-
-`Cybersecurity Research` `Blockchain` `Connected Systems`
-
-### Production Evidence
-
-| Environment | Engineering evidence |
-|---|---|
-| Regulated fintech infrastructure | Hardened Kubernetes environments, Terraform-managed infrastructure, and automated DevSecOps controls for banking platforms |
-| Healthcare AI platform | Built GCP and Vertex AI infrastructure, a secure RAG pipeline using Neo4j, and multi-agent orchestration that reduced query latency by 40 per cent |
-| Cloud delivery and compliance | Improved CI/CD across GCP, reducing release time by 45 per cent and identified vulnerabilities by 40 per cent while supporting GDPR and ISO 27001 requirements |
-| High-volume microservices | Supported Kubernetes-hosted Spring Boot services processing 120,000 monthly transactions and reduced MTTR from 40 minutes to under 10 minutes |
-
-<details>
-<summary><strong>Employment timeline</strong></summary>
-
-| Period | Organisation | Role |
-|---|---|---|
-| March 2026, present | Hyperlayer, London | DevOps Engineer, focusing on Security and AI |
-| November 2025, March 2026 | iTrials, Los Angeles and remote | Founding Engineer, DevOps and AI |
-| February 2025, October 2025 | Meterbolic, London | Lead Software Consultant, AI and Security |
-| July 2020, June 2023 | DXC Technology, Chennai | Software Engineer to Associate Software Engineer |
-
-</details>
-
-<details>
-<summary><strong>Education and certifications</strong></summary>
-
-- MSc Cyber Security Engineering, University of Warwick
-- BEng Electronics and Communication Engineering, Anna University
-- IBM Enterprise Cyber Security Professional
-- Oracle Cloud Infrastructure Associate
-- ITIL 4 Foundation
-
-</details>
-
-### Research Focus
-
-I am currently investigating security guardrails for autonomous multi-agent systems operating in regulated fintech and healthcare environments.
-
-The central question is:
-
-> How can an autonomous agent be given enough authority to complete useful work without receiving unbounded authority over consequential systems?
-
-Current themes include:
-
-- Agent identity and delegated authority
-- Tool and action governance
-- Human intervention in non-deterministic systems
-- Runtime evidence and auditability
-- Authority-to-consequence modelling
-
-### Recent Field Notes
+## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Agent Memory Governance: The Hidden Enterprise Risk](https://vishnucyber.medium.com/agent-memory-governance-the-hidden-enterprise-risk-243987010a7e?source=rss-c492b35ff423------2)
@@ -111,29 +69,6 @@ Current themes include:
 
 [Read more on Medium](https://medium.com/@vishnucyber)
 
-### Working Stack
+## Contact
 
-**Secure AI systems**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-
-**Cloud platforms**
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Delivery and services**
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-For research, engineering, and AI security conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/).
+For AI security, platform engineering, open-source collaboration, and applied research, connect with me on [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/).
