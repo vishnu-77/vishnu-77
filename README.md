@@ -1,8 +1,23 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/profile-banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/profile-banner-light.svg" width="100%" alt="Vishnu Prashanth Sridhar — developer, security engineer, researcher. Animated workbench featuring OpenReflex, agent-plane, secchecker, PigeonMQ, and OWASP contributor work." />
+    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/profile-banner-light.svg" width="100%" alt="Vishnu Prashanth Sridhar — developer, security engineer, researcher. Build things. Test ideas. Share what works." />
   </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/project-carousel-dark.svg">
+    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/project-carousel-light.svg" width="100%" alt="Projects and contributions: OpenReflex, agent-plane, secchecker, PigeonMQ, and OWASP contribution." />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishnu-77/openreflex">OpenReflex</a> ·
+  <a href="https://github.com/vishnu-77/agent-plane">agent-plane</a> ·
+  <a href="https://github.com/vishnu-77/secchecker">secchecker</a> ·
+  <a href="https://github.com/vishnu-77/pigeon">PigeonMQ</a> ·
+  <a href="https://github.com/OWASP/www-project-ai-security-and-privacy-guide/pull/213">OWASP contribution</a>
 </p>
 
 <p align="center">
