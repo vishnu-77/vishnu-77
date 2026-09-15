@@ -1,63 +1,74 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0F766E&height=160&section=header&text=Vishnu%20Prashanth%20Sridhar&fontSize=36&fontColor=F8FAFC&animation=fadeIn" alt="Vishnu Prashanth Sridhar" />
-</p>
+# Vishnu Prashanth Sridhar
 
-<h3 align="center">Security and AI Engineer · Cloud Platforms · Applied Research</h3>
+**AI Security · Agentic Systems · Cloud & Platform Engineering · Applied Research**
 
-<p align="center">Building secure infrastructure and practical controls for AI agents, developer platforms, and regulated systems.</p>
+I build systems that make AI agents and consequential software easier to **constrain, inspect, learn from, and audit at runtime**.
 
-<p align="center">
-London, United Kingdom<br />
+My current work sits around agent identity and authority, runtime governance, agent memory, execution efficiency, MCP security, and secure developer infrastructure.
+
+<p align="left">
 <a href="https://www.linkedin.com/in/vishnuprashanths/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="https://medium.com/@vishnucyber"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium articles" /></a>
+<a href="https://pypi.org/project/openreflex/"><img src="https://img.shields.io/badge/PyPI-openreflex-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="OpenReflex on PyPI" /></a>
 <a href="https://pypi.org/project/secchecker/"><img src="https://img.shields.io/badge/PyPI-secchecker-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="secchecker on PyPI" /></a>
 <a href="https://www.npmjs.com/package/pigeonmq"><img src="https://img.shields.io/badge/npm-pigeonmq-CB3837?style=flat-square&logo=npm&logoColor=white" alt="PigeonMQ on npm" /></a>
 </p>
 
-I work at the intersection of defensive security, cloud engineering, and trustworthy AI systems. My focus is making consequential software easier to constrain, inspect, and audit at runtime.
-
 ## Featured open-source systems
 
-### [secchecker](https://github.com/vishnu-77/secchecker)
+### [agent-plane](https://agent-plane.cc) — runtime authority for AI agents
 
-A dependency-free static security scanner for AI agents, MCP servers, and LLM applications. It detects risky tool-output handling, memory injection patterns, unsafe prompt construction, exposed credentials, and deployment misconfigurations before release.
+See what agents can do, understand the authority behind their actions, and control what they are allowed to cause. agent-plane provides observable runtime decisions, policy enforcement, approval boundaries, delegation controls, and an audit trail across agent and tool activity.
+
+`AI Security` `Agent Governance` `Runtime Authority` `MCP` `Policy Enforcement`
+
+[Live site](https://agent-plane.cc) · [Source](https://github.com/vishnu-77/agent-plane) · [Quickstart](https://github.com/vishnu-77/agent-plane/blob/main/docs/quickstart.md)
+
+### [OpenReflex](https://openreflex.cc) — muscle memory for AI coding agents
+
+A local-first experience layer for Claude Code, Codex, Cursor, and OpenCode. OpenReflex records how tasks actually went, retrieves useful prior execution experience, detects loops and stalls, and helps the next similar task start from what previously worked.
+
+`Agent Memory` `Execution Intelligence` `MCP` `Claude Code` `Codex`
+
+[Live site](https://openreflex.cc) · [Source](https://github.com/vishnu-77/openreflex) · [Docs](https://openreflex.cc/docs) · [PyPI](https://pypi.org/project/openreflex/)
+
+### [secchecker](https://github.com/vishnu-77/secchecker) — static security checks for AI systems
+
+A dependency-free security scanner for AI agents, MCP servers, and LLM applications. It detects risky tool-output handling, memory injection patterns, unsafe prompt construction, exposed credentials, and related security issues before release.
 
 `Python` `MCP Security` `Agent Security` `Static Analysis` `SARIF`
 
-[Install from PyPI](https://pypi.org/project/secchecker/) · [View source](https://github.com/vishnu-77/secchecker) · ![PyPI downloads](https://img.shields.io/pypi/dm/secchecker?label=downloads&style=flat-square)
+[Source](https://github.com/vishnu-77/secchecker) · [PyPI](https://pypi.org/project/secchecker/) · ![PyPI downloads](https://img.shields.io/pypi/dm/secchecker?label=downloads&style=flat-square)
 
-### [PigeonMQ](https://github.com/vishnu-77/pigeon)
+### [PigeonMQ](https://github.com/vishnu-77/pigeon) — policy-compiled messaging
 
-An experimental policy-compiled messaging broker. Services authenticate, negotiate identity-bound communication contracts, and then publish, receive, replay, acknowledge, or quarantine messages under enforceable subject, schema, intent, region, idempotency, and data-handling rules.
+An experimental messaging broker where services authenticate and communicate under identity-bound contracts governing subjects, schemas, intent, region, idempotency, data handling, replay, acknowledgement, and quarantine.
 
-`Node.js` `Messaging` `Runtime Policy` `Zero Trust` `Auditability`
+`Messaging` `Runtime Policy` `Zero Trust` `Identity` `Auditability`
 
-[Install from npm](https://www.npmjs.com/package/pigeonmq) · [View source](https://github.com/vishnu-77/pigeon) · ![npm downloads](https://img.shields.io/npm/dw/pigeonmq?label=downloads&style=flat-square)
+[Source](https://github.com/vishnu-77/pigeon) · [npm](https://www.npmjs.com/package/pigeonmq) · ![npm downloads](https://img.shields.io/npm/dw/pigeonmq?label=downloads&style=flat-square)
 
-> Kafka stores the log. NATS routes the subject. RabbitMQ manages the queue. PigeonMQ explores how the communication contract itself can become enforceable.
+## What I am researching
 
-## Current research direction
+**How can autonomous systems receive enough authority and memory to perform useful work without gaining unbounded ability to cause, retain, or propagate unsafe state?**
 
-**How can an autonomous agent or service receive enough authority to complete useful work without receiving unbounded authority over consequential systems?**
+Current research directions include:
 
-Current themes:
-
-- agent identity and delegated authority;
-- tool and action governance;
-- runtime communication contracts;
-- memory and retrieval authorisation;
-- human intervention in non-deterministic systems;
-- evidence, replay, and auditability;
-- authority-to-consequence modelling.
+- runtime authority and consequence modelling for AI agents;
+- agent identity, delegation, leases, and least-privilege execution;
+- tool governance and enforceable action boundaries;
+- agent memory, knowledge integrity, and retrieval authorisation;
+- counterfactual execution efficiency and learning from prior trajectories;
+- event-sourced evidence, replay, and auditability for autonomous systems.
 
 ## Engineering background
 
-| Area | Experience |
+| Area | Focus |
 |---|---|
-| Regulated infrastructure | Kubernetes, Terraform, AWS, GCP, CI/CD, identity, platform security, and operational controls |
-| Secure AI systems | Agent and MCP security, RAG controls, model-facing trust boundaries, evaluation, and runtime governance |
-| Developer tooling | Static analysis, policy checks, release automation, security reporting, and open-source package delivery |
-| Applied research | Autonomous-system security, distributed trust, connected systems, and auditable control architectures |
+| **AI security** | Agent and MCP security, runtime governance, RAG controls, model-facing trust boundaries, evaluation |
+| **Cloud & platform** | Kubernetes, Terraform, AWS, GCP, CI/CD, identity, platform security, operational controls |
+| **Developer tooling** | Static analysis, policy checks, release automation, security reporting, open-source package delivery |
+| **Applied research** | Autonomous-system security, distributed trust, execution intelligence, auditable control architectures |
 
 ## Recent writing
 
@@ -69,6 +80,6 @@ Current themes:
 
 [Read more on Medium](https://medium.com/@vishnucyber)
 
-## Contact
+## Connect
 
-For AI security, platform engineering, open-source collaboration, and applied research, connect with me on [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/).
+If you work on **AI security, agentic systems, runtime governance, agent memory, or secure platforms**, connect with me on [LinkedIn](https://www.linkedin.com/in/vishnuprashanths/) or explore the projects above.
