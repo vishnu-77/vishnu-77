@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/profile-banner-dark.svg">
-    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/profile-banner-light.svg" width="100%" alt="Vishnu Prashanth Sridhar — developer, security engineer, researcher. Build things. Test ideas. Share what works." />
+    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/profile-banner-light.svg" width="100%" alt="Vishnu Prashanth Sridhar — developer, security engineer, researcher. Animated workbench featuring OpenReflex, agent-plane, secchecker, PigeonMQ, and OWASP contributor work." />
   </picture>
 </p>
 
