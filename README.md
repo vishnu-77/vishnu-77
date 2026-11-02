@@ -44,14 +44,6 @@ A local-first layer for Claude Code, Codex, Cursor, and OpenCode that remembers 
 
 [Website](https://openreflex.cc) · [Source](https://github.com/vishnu-77/openreflex) · [Docs](https://openreflex.cc/docs) · [PyPI](https://pypi.org/project/openreflex/)
 
-### [agent-plane](https://agent-plane.cc) — runtime boundaries for autonomous software
-
-A control plane for seeing what software agents are doing and putting explicit boundaries around consequential actions. It explores identity, authority, delegation, approval, enforcement, and evidence without pretending every integration can block everything.
-
-`Security` `Runtime Systems` `Identity` `Policy` `MCP`
-
-[Website](https://agent-plane.cc) · [Source](https://github.com/vishnu-77/agent-plane) · [Quickstart](https://github.com/vishnu-77/agent-plane/blob/main/docs/quickstart.md)
-
 ## Also on the workbench
 
 | Project | What it explores | Try it |
