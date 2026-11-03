@@ -8,13 +8,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/project-carousel-dark.svg">
-    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/project-carousel-light.svg" width="100%" alt="Projects and contributions: OpenReflex, agent-plane, secchecker, PigeonMQ, and OWASP contribution." />
+    <img src="https://raw.githubusercontent.com/vishnu-77/vishnu-77/main/assets/project-carousel-light.svg" width="100%" alt="Projects and contributions: OpenReflex, secchecker, PigeonMQ, and OWASP contribution." />
   </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/vishnu-77/openreflex">OpenReflex</a> ·
-  <a href="https://github.com/vishnu-77/agent-plane">agent-plane</a> ·
   <a href="https://github.com/vishnu-77/secchecker">secchecker</a> ·
   <a href="https://github.com/vishnu-77/pigeon">PigeonMQ</a> ·
   <a href="https://github.com/OWASP/www-project-ai-security-and-privacy-guide/pull/213">OWASP contribution</a>
@@ -32,7 +31,7 @@ I build useful software where **security, AI, developer tooling, infrastructure,
 
 I like small tools, strong system models, experiments that can be tested, and sharing what survives contact with reality.
 
-**Start here:** [OpenReflex](https://openreflex.cc) · [agent-plane](https://agent-plane.cc) · [writing](https://medium.com/@vishnucyber)
+**Start here:** [OpenReflex](https://openreflex.cc) · [writing](https://medium.com/@vishnucyber)
 
 ## Featured builds
 
