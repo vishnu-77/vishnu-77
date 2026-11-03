@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/vishnu-77/openreflex">OpenReflex</a> ·
   <a href="https://github.com/vishnu-77/secchecker">secchecker</a> ·
-  <a href="https://github.com/vishnu-77/pigeon">PigeonMQ</a> ·
+  <a href="https://pigeonmq.cc">PigeonMQ</a> ·
   <a href="https://github.com/OWASP/www-project-ai-security-and-privacy-guide/pull/213">OWASP contribution</a>
 </p>
 
@@ -48,7 +48,7 @@ A local-first layer for Claude Code, Codex, Cursor, and OpenCode that remembers 
 | Project | What it explores | Try it |
 |---|---|---|
 | **[secchecker](https://github.com/vishnu-77/secchecker)** | Lightweight static security checks for AI, MCP, prompts, tool handling, memory flows, and exposed credentials | [PyPI](https://pypi.org/project/secchecker/) |
-| **[PigeonMQ](https://github.com/vishnu-77/pigeon)** | Message brokering with identity-bound communication contracts, policy, replay, idempotency, and quarantine | [npm](https://www.npmjs.com/package/pigeonmq) |
+| **[PigeonMQ](https://pigeonmq.cc)** | Message brokering with identity-bound communication contracts, policy, replay, idempotency, and quarantine | [npm](https://www.npmjs.com/package/pigeonmq) |
 
 ## Current rabbit holes
 
