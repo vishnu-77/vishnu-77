@@ -41,6 +41,8 @@ A local-first layer for Claude Code, Codex, Cursor, and OpenCode that remembers 
 
 `Developer Tools` `Python` `Agent Memory` `MCP` `Local-first`
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/openreflex?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/openreflex)
+
 [Website](https://openreflex.cc) · [Source](https://github.com/vishnu-77/openreflex) · [Docs](https://openreflex.cc/docs) · [PyPI](https://pypi.org/project/openreflex/)
 
 ## Also on the workbench
